@@ -66,7 +66,4 @@ The dataset (`machine_downtime.csv`) contains operational metrics including:
 ```bash
 git clone https://github.com/hafidaso/Predicting-industrial-machine-downtime-Level-2/tree/main
 
-----
 
-## 👥 Contributors
-- Hafida Bleayd
